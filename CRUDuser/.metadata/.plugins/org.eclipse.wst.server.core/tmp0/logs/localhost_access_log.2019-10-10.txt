@@ -1,0 +1,4 @@
+127.0.0.1 - - [10/Oct/2019:15:21:10 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [10/Oct/2019:15:21:13 +0700] "GET /CrudServlet/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Oct/2019:15:21:16 +0700] "GET /CrudServlet/trangchu;jsessionid=2263EB05009FDF389032785F291A3FAC HTTP/1.1" 200 2638
+0:0:0:0:0:0:0:1 - - [10/Oct/2019:15:21:16 +0700] "GET /CrudServlet/resource/product.css HTTP/1.1" 200 1780

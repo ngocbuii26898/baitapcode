@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+C:\Users\USER\eclipse-workspace\CRUDuser\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4072485144.index
+\CrudServlet\src
+C:\Users\USER\eclipse-workspace\CRUDuser\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2335385954.index
+\website\src
+C:\Users\USER\eclipse-workspace\CRUDuser\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\755875461.index
+\Demoweb\src
+C:\Users\USER\eclipse-workspace\CRUDuser\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3708971127.index
+\Demotest\src
+C:\Users\USER\eclipse-workspace\CRUDuser\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1624517839.index
+\webbt\src
+C:\Users\USER\eclipse-workspace\CRUDuser\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\957859969.index
+\CrudServlet\src
